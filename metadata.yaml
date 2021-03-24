@@ -1,0 +1,30 @@
+_repo: Harper-s-Electricity-Book-for-Boys_64592
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Baker, Joseph B.
+    gutenberg_agent_id: '52974'
+    url: http://www.gutenberg.org/2009/agents/52974
+creator:
+  author:
+    agent_name: Adams, Joseph H. (Joseph Henry)
+    alias: Adams, Joseph Henry
+    birthdate: 1867
+    deathdate: 1941
+    gutenberg_agent_id: '47495'
+    url: http://www.gutenberg.org/2009/agents/47495
+description: Illustrated by the author.
+gutenberg_issued: '2021-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QC'
+- !lcsh 'Electricity -- Juvenile literature'
+- GITenberg
+title: Harper's Electricity Book for Boys
+url: http://www.gutenberg.org/ebooks/64592
