@@ -5,6 +5,9 @@ contributor:
     agent_name: Baker, Joseph B.
     gutenberg_agent_id: '52974'
     url: http://www.gutenberg.org/2009/agents/52974
+covers:
+- cover_type: archival
+  image_path: 64592-h/images/cover.jpg
 creator:
   author:
     agent_name: Adams, Joseph H. (Joseph Henry)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47495'
     url: http://www.gutenberg.org/2009/agents/47495
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64592#Harper-s-Electricity-Book-for-Boys
 gutenberg_issued: '2021-02-18'
 gutenberg_type: Text
 identifiers:
